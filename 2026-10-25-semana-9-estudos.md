@@ -1,0 +1,11 @@
+### Estudo do Weblate e início das traduções
+
+Passei esta semana avaliando as várias opções de contribuição discutidas na entrada anterior, de modo a escolher aquela que melhor se encaixasse no meu planejamento. Considerei que ainda há tempo suficiente para realizar mais do que uma contribuição adicional, e mais robustas do que a que fiz anteriormente, relacionada aos símbolos genealógicos. Portanto, decidi iniciar em primeiro lugar um esforço de tradução para completar os textos do GrampsWeb em português brasileiro e, posteriormente, já que penso que isso não demandará muitas horas de trabalho, começar a resolver outra _issue_ e, caso consiga fazer isso rapidamente, partir para outras.
+
+Realizei leituras da documentação do Weblate ([Weblate 2026.11 documentation](https://docs.weblate.org/en/latest/)) e da página do projeto Gramps dedicada àqueles que querem contribuir com traduções ([Translating Gramps using Weblate - Gramps](https://gramps-project.org/wiki/index.php/Translating_Gramps_using_Weblate)), assim como dos materiais complementares indicados nesta página. Também assisti a vídeos no YouTube ([Weblate Tutorials Playlist](https://www.youtube.com/playlist?list=PLDYUG5PASuck3_FBifGYiZJkr_cnHTRJp)) para entender melhor, na prática, como realizar traduções usando o Weblate, e comecei a dar os primeiros passos nessa tarefa. Planejo continuar na próxima semana e, se possível, concluir já essa etapa.
+
+<img width="1890" height="902" alt="Captura de tela 2026-10-25 223139" src="https://github.com/user-attachments/assets/ed42c6f0-7dba-4c36-a522-78071b3ff290" />
+Página do Weblate de tradução para português brasileiro no projeto GrampsWeb.
+<br>
+<br>
+Embora não tenha realizado nada muito substancial ainda nesta semana (devo admitir que fiquei distraído com outras atividades), estudei bastante e considero que construir uma boa base teórica sobre os ambientes e as ferramentas utilizadas é importante para realizar boas contribuições práticas em repositórios públicos. Também sei que a leitura e a compreensão da documentação são habilidades cruciais para bons profissionais de programação, e considero positivo ter a oportunidade de exercitá-las durante esse processo. Para a próxima semana, planejo me dedicar mais à parte prática e realizar várias contribuições, compensando o ritmo mais lento desta semana.
